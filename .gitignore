@@ -1,0 +1,7 @@
+
+WcfService1/_ReSharper*
+*.dll
+*.pdb
+*/bin/*
+*/bin/*
+*/obj/*
