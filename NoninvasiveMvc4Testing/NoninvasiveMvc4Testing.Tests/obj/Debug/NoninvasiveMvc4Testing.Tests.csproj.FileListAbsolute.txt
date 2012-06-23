@@ -1,0 +1,16 @@
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\NoninvasiveMvc4Testing.Tests.dll.config
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\NoninvasiveMvc4Testing.Tests.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\NoninvasiveMvc4Testing.Tests.pdb
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\NoninvasiveMvc4Testing.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\EntityFramework.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\NoninvasiveMvc4Testing.pdb
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\EntityFramework.xml
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\obj\Debug\NoninvasiveMvc4Testing.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\obj\Debug\NoninvasiveMvc4Testing.Tests.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\obj\Debug\NoninvasiveMvc4Testing.Tests.pdb
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\obj\Debug\NoninvasiveMvc4Testing.Tests.csprojFakesResolveAssemblyReference.cache
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\System.Web.4.0.0.0.Fakes.fakesconfig
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\System.Web.4.0.0.0.Fakes.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\NoninvasiveMvc4Testing\NoninvasiveMvc4Testing.Tests\bin\Debug\System.Web.4.0.0.0.Fakes.xml
