@@ -1,0 +1,19 @@
+﻿@model JSSerializerSample.Models.IndexViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+</p>
+<div id="userName"></div>
+<div id="message"></div>
+
+<script>
+    $(function () {
+        var options = @Html.Raw(Model.AsJson());
+        $("#userName").html(options.UserName);
+        $("#message").html(options.Message);
+    });
+</script>
