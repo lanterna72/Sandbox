@@ -10,6 +10,6 @@ namespace JSSerializerSample.Models
         public string Message { get; set; }
         public string UserName { get; set; }
 
-
+        public ComplexViewModel ComplexProperty { get; set; }
     }
 }

@@ -13,10 +13,14 @@ namespace JSSerializerSample.Controllers
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
-            var model = new IndexViewModel 
-            { 
+            var model = new IndexViewModel
+            {
                 Message = "Here is a message!",
-                UserName = "mpaterson"
+                UserName = "mpaterson",
+                ComplexProperty = new ComplexViewModel 
+                { 
+                    ComplexProperty1 = "Complex Property1 Value"
+                }
             };
 
             return View(model);

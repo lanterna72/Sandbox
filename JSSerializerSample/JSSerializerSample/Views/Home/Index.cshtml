@@ -9,11 +9,13 @@
 </p>
 <div id="userName"></div>
 <div id="message"></div>
+<div id="complexProperty1"></div>
 
 <script>
     $(function () {
         var options = @Html.Raw(Model.AsJson());
         $("#userName").html(options.UserName);
         $("#message").html(options.Message);
+        $("#complexProperty1").html(options.ComplexProperty.ComplexProperty1);
     });
 </script>
